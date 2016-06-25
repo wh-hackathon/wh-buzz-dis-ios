@@ -15,6 +15,8 @@ class HomeCell: UITableViewCell
     
     @IBOutlet weak var nameLabel: UILabel!
     @IBOutlet weak var discountLabel: UILabel!
+    @IBOutlet weak var shopAddress :UILabel!
+    @IBOutlet weak var discountBanner :UILabel!
     @IBOutlet weak var photoImageView: UIImageView!
     
     @IBOutlet weak var likeBtn: UIButton!
